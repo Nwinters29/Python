@@ -1,0 +1,1 @@
+This project aims to create a machine learning model that is able to take as input a chemical compund in SMILE format, and predict its IC50 value in regard to targeting the AMyloid-beta A4 protein. This protein is a hallmark of the Alzheimer's disease due to its overexpression within neural pathways.
