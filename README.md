@@ -26,6 +26,12 @@ These projects cover the following concepts:
 + Model building and evaluation
 + Data prediction with a ML model
 
+## Cancer Type Classifier
+This project aims to employ a machine learning algorithm to predict the cancer type in patients based on gene expression data obtained from an RNA-Seq analysis. This project demonstrates the application machine learning and bioinformatics could have for cancer detection. The data came from the [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/401/gene+expression+cancer+rna+seq)
+
+Includes:
++ ipynb file of the full end-to-end code
+
 ## CA Housing Value Predictor
 This project aims to employ a machine learning algorithm to predict median houseing values in Californian districts given a number of housing attributes. This model could be useful in aiding either sellers in properly listing a house or buyers in establishing a realistic price for a property.
 
